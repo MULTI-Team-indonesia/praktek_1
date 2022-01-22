@@ -1,2 +1,2 @@
 # praktek_1
-pull request untuk mengupload source kalian
+lakukan pull request untuk mengupload source kalian
